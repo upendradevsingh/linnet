@@ -1,0 +1,25 @@
+{
+  "name": "linnet",
+  "version": "1.0.0",
+  "description": "A lightweight ajax library",
+  "main": "./src/linnet.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upendradevsingh/linnet.git"
+  },
+  "keywords": [
+    "ajax",
+    "async",
+    "pojo",
+    "lightweight"
+  ],
+  "author": "Upendra Dev Singh <upendradevsingh@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upendradevsingh/linnet/issues"
+  },
+  "homepage": "https://github.com/upendradevsingh/linnet#readme"
+}
